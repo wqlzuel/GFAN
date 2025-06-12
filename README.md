@@ -1,6 +1,6 @@
-# [GFAN: An Explainable Fully Attentional Network for Multivariate Time-Series Forecasting](https://doi.org/10.1016/j.knosys.2025.113780)
+# GFAN: An Explainable Fully Attentional Network for Multivariate Time-Series Forecasting
 
-This is a PyTorch implementation of the paper [An Explainable Fully Attentional Network for Multivariate Time-Series Forecasting].
+This is a PyTorch implementation of the paper [An Explainable Fully Attentional Network for Multivariate Time-Series Forecasting](https://doi.org/10.1016/j.knosys.2025.113780).
 
 ```
 @article{WU2025113780,
